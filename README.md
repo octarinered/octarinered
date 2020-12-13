@@ -8,6 +8,8 @@ I'm a Python junior developer and here you can see some of my code :hand:
 - :pill:[**COVID 19 Telegram Bot**](../../../COVID-19-Telegram-Bot) - telegram bot that helps to get up-to-date information about COVID-19
 - :hankey: [**Small developments and mini-projects on django**](../../../DjangoStudy) - some little project or bookmarks on django 
 
+
+
 :question: **Guides and notes on some technologies:** :question:
 - **OOP** - notes about OOP
 
