@@ -11,5 +11,5 @@ I'm a Python junior developer and here you can see some of my code :hand:
 
 
 :question: **Guides and notes on some technologies:** :question:
-- **OOP** - notes about OOP
+- [**OOP**](../../../OOP) - notes about OOP on Python (but in Russian only)
 
