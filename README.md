@@ -1,4 +1,4 @@
-## **Hello**
+## :boom: **Hello** :boom:
 
 I'm a Python junior developer and here you can see some of my code :hand:
 
