@@ -2,6 +2,8 @@
 
 I'm a Python junior developer and here you can see some of my code :hand:
 
+Now I'm getting in Django, JavaScript, Design Patterns and something other
+
 :fire::fire::fire: **My main projects:**
 - :gem:[**Automated control system for Typography**](../../../Typography) - control system for local typography
 - :mag_right:[**Parser for games stores**](../../../gamesStoresParser) - a parser that looking for the lowest price for a game among games stores
