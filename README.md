@@ -2,7 +2,7 @@
 
 I'm a Python junior developer and here you can see some of my code :hand:
 
-Now I'm getting in Django, JavaScript, Design Patterns and something other
+Now I'm getting in Django, JavaScript, Design Patterns and smt other
 
 :fire::fire::fire: **My main projects:**
 - :gem:[**Automated control system for Typography**](../../../Typography) - control system for local typography
