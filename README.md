@@ -13,5 +13,5 @@ Now I'm getting in Django, JavaScript, Design Patterns and smt other
 
 
 :question: **Guides and notes on some technologies:** :question:
-- [**OOP Basic Concepts**](../../../OOP) - basic OOP concepts and how it works in Python (concepts in Russian, code in English)
+- [**OOP**](../../../OOP) - basic OOP concepts and how it works in Python (concepts in Russian, code in English)
 
