@@ -6,7 +6,7 @@ junior Python developer, а здесь можно нати мой код :hand:
 
 :fire::fire::fire: **Основные проекты:**
 - :gem:[**АСУ для местной типографии**](../../../Typography)
-- :mag_right:[**Парсер магазинов с играми и оценками**](../../../gamesStoresParser) - парсер, который ищет цены на игры среди разных магазинов и выдает самую низкую
+- :mag_right:[**Парсер магазинов с играми и оценками**](../../../gamesStoresParser) - парсер, который ищет цены на игры среди разных магазинов
 - :mag:[**Games stores parser on Django**](../../../djangoGamesStoreParser) - тот же парсер, что выше, но на Django
 - :pill:[**COVID 19 Telegram Bot**](../../../COVID-19-Telegram-Bot) - телеграм-бот, выдающий актуальную информацию о COVID-19
 - :hankey: [**Небольшие проекты и заметки**](../../../DjangoStudy)
