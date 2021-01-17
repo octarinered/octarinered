@@ -1,6 +1,6 @@
 ## :boom: **Hello** :boom:
 
-junior Python developer, and here you can find some of my code:hand:
+junior Python developer, and here you can find some of my code :hand:
 
 Now I'm going to web, algorithms, design patterns and else
 
