@@ -1,19 +1,19 @@
 ## :boom: **Hello** :boom:
 
-junior Python developer, а здесь можно найти мой код :hand:
+junior Python developer, and here you can find some of my code:hand:
 
-Сейчас иду в веб, алгоритмы, паттерны проектирования и другое
+Now I'm going to web, algorithms, design patterns and else
 
-:fire::fire::fire: **Основные проекты:**
-- :mag_right:[**Парсер магазинов с играми и оценками**](../../../gamesStoresParser) - парсер, который ищет цены на игры среди разных магазинов
-- :mag:[**Games stores parser on Django**](../../../djangoGamesStoreParser) - тот же парсер, что выше, но на Django
-- :pill:[**COVID 19 Telegram Bot**](../../../COVID-19-Telegram-Bot) - телеграм-бот, выдающий актуальную информацию о COVID-19
-- :hankey: [**Небольшие проекты и заметки**](../../../DjangoStudy)
+:fire::fire::fire: **Main projects:**
+- :mag_right:[**Games stores and ratings services parser**](../../../gamesStoresParser) - a parser that looks for prices and estimates for games in various stores
+- :mag:[**Games stores parser on Django**](../../../djangoGamesStoreParser) - same parser, but on Django
+- :pill:[**COVID 19 Telegram Bot**](../../../COVID-19-Telegram-Bot) - telegram-bot, with up-to-date informain about COVID-19
+- :hankey: [**Some little project and notes**](../../../DjangoStudy)
 
 
 
-:question: **Заметки и ...гайды... по разным технологиям:**
-- [**ООП**](../../../OOP) - основы ООП и как они работают в Python
-- [**Паттерны проектирования**](../../../DesignPatterns) - шаблоны проектирования (GRASP и GOF) 
-- [**Алгоритмы**](../../../Algorithms) - Алгоритмы...
+:question: **Notes and ...guides... about different:**
+- [**OOP**](../../../OOP) - basics of OOP and how it works in Python
+- [**Design Patterns**](../../../DesignPatterns) - GRASP и GOF 
+- [**Algorithms**](../../../Algorithms) - Algorithms...
 
