@@ -8,7 +8,7 @@ Now I'm going to web, algorithms, design patterns and else
 - :mag_right: [**Games stores and ratings services parser**](../../../gamesStoresParser) - a parser that looks for prices and estimates for games in various stores
 - :mag: [**Games stores parser on Django**](../../../djangoGamesStoreParser) - same parser, but on Django
 - :pill: [**COVID 19 Telegram Bot**](../../../COVID-19-Telegram-Bot) - telegram-bot, with up-to-date informain about COVID-19
-- ![](https://img.shields.io/badge/-QT-%2300e149)  [**PyQT projects**](../../../PyQT)
+- 💚 [**PyQT projects**](../../../PyQT)
 - :hankey: [**Some little project and notes about web developing using Django framework**](../../../DjangoStudy)
 
 
