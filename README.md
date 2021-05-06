@@ -15,6 +15,6 @@ Now I'm going to web, algorithms, design patterns and else
 
 
 :question: **Notes and ...guides... about different:**
-- [**OOP**](../../../OOP) - basics of OOP and how it works in Python
+- [**OOP**](../../../OOP) - basics of OOP and how it works in Ruby, Python and C#
 
 
