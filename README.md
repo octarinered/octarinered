@@ -32,4 +32,4 @@ Now I'm going to web, algorithms, design patterns and else
 [vk]: https://vk.com/authoraytee
 [instagram]: https://www.instagram.com/authoraytee/
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=authoraytee&hide=GLSL,html,css,scss)](https://github.com/authoraytee/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=authoraytee&hide=GLSL,html,css,scss)](https://github.com/authoraytee/github-readme-stats)
