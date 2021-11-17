@@ -15,9 +15,9 @@ Now I'm going to web, algorithms, design patterns and else
 
 -  &#9898;  [**Gamers Gazette**](../../../gamers-gazette) - gaming service with the latest industry news and the lowest prices among various stores (in the pipeline)
 
--  🔴 [**Simple API on Rails**](../../../rails_junior_api) - first experience with rails, simple API
+-  :airplane: [**HHNSU telegram bot**](../../../HHNSU) - telegram bot for Novosibirsk State University. Teachers can find students to help in the work on scientific articles, and students - to scientific advisers
 
--  :mag: [**Games stores parser on Django**](../../../djangoGamesStoreParser) - a parser that looks for prices and estimates for games in various stores on Django
+-  🔴 [**Simple API on Rails**](../../../rails_junior_api) - first experience with rails, simple API
 
 -  :pill: [**COVID 19 Telegram Bot**](../../../COVID-19-Telegram-Bot) - telegram-bot, with up-to-date informain about COVID-19
 
