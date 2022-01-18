@@ -13,13 +13,13 @@ Now I'm going to web, algorithms, design patterns and else
 
 :fire::fire::fire: **Main projects:**
 
--  &#9898;  [**Gamers Gazette**](../../../gamers-gazette) - gaming service with the latest industry news and the lowest prices among various stores (in the pipeline)
+-  &#9898;  [**Gamers Gazette**](../../../gamers_gazette_new) - (in work) gaming service with the latest industry news and the lowest prices among various stores (in the pipeline) 
 
--  :airplane: [**HHNSU telegram bot**](../../../HHNSU) - telegram bot for Novosibirsk State University. Teachers can find students to help in the work on scientific articles, and students - to scientific advisers
+-  :airplane: [**HHNSU telegram bot**](../../../HHNSU) - (in work) telegram bot for Novosibirsk State University. Teachers can find students to help in the work on scientific articles, and students - to scientific advisers
 
 -  🔴 [**Simple API on Rails**](../../../rails_junior_api) - first experience with rails, simple API
 
--  :pill: [**COVID 19 Telegram Bot**](../../../COVID-19-Telegram-Bot) - telegram-bot, with up-to-date informain about COVID-19
+-  :pill: [**COVID 19 Telegram Bot**](../../../COVID-19-Telegram-Bot) - (outdated) telegram-bot, with up-to-date informain about COVID-19
 
 :question: **Notes and ...guides... about different:**
 
