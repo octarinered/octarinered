@@ -13,9 +13,9 @@ Now I'm going to web, algorithms, design patterns and else
 
 :fire::fire::fire: **Main projects:**
 
--  &#9898;  [**Gamers Gazette**](../../../gamers_gazette_new) - (in work) gaming service with the latest industry news and the lowest prices among various stores (in the pipeline) 
+-  &#9898;  [**Gamers Gazette**](../../../gamers_gazette_new) - (in developing) gaming service with the latest industry news and the lowest prices among various stores (in the pipeline) 
 
--  :airplane: [**HHNSU telegram bot**](../../../HHNSU) - (in work) telegram bot for Novosibirsk State University. Teachers can find students to help in the work on scientific articles, and students - to scientific advisers
+-  :airplane: [**HHNSU telegram bot**](../../../HHNSU) - (in developing) telegram bot for Novosibirsk State University. Teachers can find students to help in the work on scientific articles, and students - to scientific advisers
 
 -  🔴 [**Simple API on Rails**](../../../rails_junior_api) - first experience with rails, simple API
 
