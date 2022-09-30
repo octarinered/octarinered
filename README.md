@@ -28,12 +28,12 @@ Now I'm going to web, algorithms, design patterns and else
  
 ###  Connect with me:
 
-[<img align="left" alt="authoraytee | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
+[<img align="left" alt="octarinered | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
 
-[<img align="left" alt="authoraytee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="octarinered | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 
-[vk]: https://vk.com/authoraytee
-[instagram]: https://www.instagram.com/authoraytee/
+[vk]: https://vk.com/octarinered
+[instagram]: https://www.instagram.com/octarinered/
   
   <br  />
 
@@ -46,4 +46,4 @@ Now I'm going to web, algorithms, design patterns and else
 <br  />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=authoraytee&hide=GLSL,html,css,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octarinered&hide=GLSL,html,css,scss)
