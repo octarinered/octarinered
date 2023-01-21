@@ -1,40 +1,24 @@
 
 ##  :boom: **Hello** :boom:
 
-  
-
-Junior *something* developer, and here you can find some of my code :hand:
-
-  
-
-Now I'm going to web, algorithms, design patterns and else
-
-  
+Junior *something* developer, and here you can find some of my code :hand:  
 
 :fire::fire::fire: **Main projects:**
 
--  &#9898;  [**Gamers Gazette**](../../../gamers_gazette) - (in the pipeline) gaming service with the latest industry news and the lowest prices among various stores
-
--  &#128241; [**KRSK_BUSCAM**](../../../krsk_buscam) - clone of the Krasnoyarsk transport application
-
 -  🔴 [**Simple API on Rails**](../../../rails_junior_api) - first experience with rails, simple API
-
--  :pill: [**COVID 19 Telegram Bot**](../../../COVID-19-Telegram-Bot) - (outdated) telegram-bot, with up-to-date informain about COVID-19
 
 :question: **Notes and ...guides... about different:**
 
--  [**OOP**](../../../OOP) - basics of OOP and how it works in Ruby, Python, C# and Java
+-  [**OOP**](../../../OOP) - basics of OOP and how it works in Ruby, Python and C#
 
  
-###  Connect with me:
+###  My contacts:
 
 [<img align="left" alt="octarinered | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
 
-[<img align="left" alt="octarinered | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-
 [vk]: https://vk.com/octarinered
-[instagram]: https://www.instagram.com/octarinered/
-  
+ 
+ 
   <br  />
 
 
